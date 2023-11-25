@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "running & done"
+echo "script (pid: $$) (parent pid: $PPID)"
